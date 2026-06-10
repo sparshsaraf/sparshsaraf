@@ -123,9 +123,8 @@ ml engineer who also draws, beatboxes, and watches way too much anime.
 <td colspan="2" align="center">
 
 <!-- Replace src URLs with your own artwork: ./assets/art1.png etc. -->
-<img src="./assets/Picsart_26-04-28_04-45-16-229.jpg" width="180" style="border-radius:8px; margin:6px"/>
-<img src="./assets/Picsart_26-06-10_15-24-27-506.jpg" width="180" style="border-radius:8px; margin:6px"/>
-<br/><sub><i>← replace with your illustrations from /assets/</i></sub>
+<img src="./assets/Picsart_26-04-28_04-45-16-229.jpg" height="200" style="border-radius:8px; margin:6px; object-fit:cover"/>
+<img src="./assets/Picsart_26-06-10_15-24-27-506.jpg" height="200" style="border-radius:8px; margin:6px; object-fit:cover"/>
 
 </td>
 </tr>
