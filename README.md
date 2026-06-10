@@ -135,11 +135,11 @@ ml engineer who also draws, beatboxes, and watches way too much anime.
 ## ✨ currently into
 
 ```yaml
-anime:    watching whatever's airing + backlog is infinite
-manga:    always reading something
-music:    FL Studio experiments + beatbox sessions
-drawing:  character art, illustrations
-ML:       RAG systems, fine-tuning, deployment
+ML: exploring retrieval methods in rag and agentic automation
+manga:    reading one chapter a day ( no time ) 
+music:    FL studio , trying to learn mixing 
+drawing:  on hold but doing a wip in realistic paint studio
+
 ```
 
 ---
