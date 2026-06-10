@@ -32,7 +32,7 @@ ml engineer who also draws, beatboxes, and watches way too much anime.
 
 <!-- 👇 REPLACE THIS URL with your own art/gif from your /assets folder -->
 <img src="https://media.giphy.com/media/dB9KMjCBCDiN3jPvGQ/giphy.gif" width="260" alt="your image here" />
-<br/><sub><i>← swap this with your own art or a fav gif</i></sub>
+<br/><sub><i>← swap with your own art or a fav gif</i></sub>
 
 </td>
 </tr>
@@ -45,24 +45,46 @@ ml engineer who also draws, beatboxes, and watches way too much anime.
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,mysql" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="48"/>
 </p>
 
-**ML & LLM**
+**ML & DL**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" height="48"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge" height="48"/>
-  <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
-**Infra & Tools**
+**LLM & RAG**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,fastapi,git,github,vscode" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/FAISS-00BFFF?style=flat-square&logoColor=white" height="32"/>
+</p>
+
+**CV & NLP**
+
+<p>
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/NLTK-3B7A57?style=flat-square&logoColor=white" height="32"/>
+</p>
+
+**Infra & Deployment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,fastapi,flask,githubactions,postman" />
+</p>
+
+**Tools & Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="32"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="32"/>
 </p>
 
 ---
@@ -100,11 +122,10 @@ ml engineer who also draws, beatboxes, and watches way too much anime.
 <tr>
 <td colspan="2" align="center">
 
-<!-- Replace the src URLs below with your own artwork from /assets/ -->
+<!-- Replace src URLs with your own artwork: ./assets/art1.png etc. -->
 <img src="https://via.placeholder.com/200x200/1a1a2e/A9FEF7?text=your+art+here" width="180" style="border-radius:8px; margin:6px"/>
 <img src="https://via.placeholder.com/200x200/1a1a2e/FFD21E?text=your+art+here" width="180" style="border-radius:8px; margin:6px"/>
-
-<br/><sub><i>← replace with your own illustrations from /assets/</i></sub>
+<br/><sub><i>← replace with your illustrations from /assets/</i></sub>
 
 </td>
 </tr>
@@ -148,7 +169,6 @@ ML:       RAG systems, fine-tuning, deployment
 
 ---
 
-<!-- closing wave with gif -->
 <div align="center">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZd38/giphy.gif" width="160" alt="bye gif" />
   <br/><sub>thanks for stopping by 👋</sub>
